@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LITSA//suffolk-guides//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Suffolk Law academic calendar (unofficial)
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ee4793aceeaa146acc4d@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Fall 2026: Classes begin
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:b750e0616ac03d01e2a6@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Fall 2026: Last day to add/drop
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0919cd07ad8818f535@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Fall 2026: Last day to file Legal Writing Requirement
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:97e27f83906b4eed1593@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Fall 2026: Classes end
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:00242dbdeecde6f141a8@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Fall 2026: Exams begin
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:a8efccefed51358ead42@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Fall 2026: Exams end
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:24b589da5f7f27350091@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Spring 2027: Classes begin
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:2852ffd26e2ca282e804@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Spring 2027: Last day to add/drop
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:3825412c5b03a851fe46@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Spring 2027: Last day to file Legal Writing Requirement
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:741b15e897f9c059de3f@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Spring 2027: Classes end
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f12d9ef78343bb29b6@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Spring 2027: Exams begin
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:6c7cb755600c666ae815@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Spring 2027: Exams end
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d204ee50954f1b1c15@suffolk-guides.litsa
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Spring 2027: Commencement
+TRANSP:TRANSPARENT
+DESCRIPTION:From Suffolk Law academic calendar: https://www.suffolk.edu/law
+ /academics-clinics/academic-resources/academic-calendar---law. Unofficial\
+ ; check the source.
+END:VEVENT
+END:VCALENDAR

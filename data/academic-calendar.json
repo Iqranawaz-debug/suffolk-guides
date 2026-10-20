@@ -1,0 +1,73 @@
+{
+ "source": {
+  "url": "https://www.suffolk.edu/law/academics-clinics/academic-resources/academic-calendar---law",
+  "verified_at": "2026-08-21"
+ },
+ "events": [
+  {
+   "term": "Fall 2026",
+   "event": "classes begin",
+   "date": "2026-08-24"
+  },
+  {
+   "term": "Fall 2026",
+   "event": "last day to add/drop",
+   "date": "2026-08-28"
+  },
+  {
+   "term": "Fall 2026",
+   "event": "last day to file Legal Writing Requirement",
+   "date": "2026-10-01"
+  },
+  {
+   "term": "Fall 2026",
+   "event": "classes end",
+   "date": "2026-11-30"
+  },
+  {
+   "term": "Fall 2026",
+   "event": "exams begin",
+   "date": "2026-12-04"
+  },
+  {
+   "term": "Fall 2026",
+   "event": "exams end",
+   "date": "2026-12-17"
+  },
+  {
+   "term": "Spring 2027",
+   "event": "classes begin",
+   "date": "2027-01-19"
+  },
+  {
+   "term": "Spring 2027",
+   "event": "last day to add/drop",
+   "date": "2027-01-25"
+  },
+  {
+   "term": "Spring 2027",
+   "event": "last day to file Legal Writing Requirement",
+   "date": "2027-02-05"
+  },
+  {
+   "term": "Spring 2027",
+   "event": "classes end",
+   "date": "2027-04-28"
+  },
+  {
+   "term": "Spring 2027",
+   "event": "exams begin",
+   "date": "2027-05-01"
+  },
+  {
+   "term": "Spring 2027",
+   "event": "exams end",
+   "date": "2027-05-14"
+  },
+  {
+   "term": "Spring 2027",
+   "event": "commencement",
+   "date": "2027-05-23"
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+# What the Massachusetts bar application asks about. Status: to research. Don't rely on this until status = "reviewed".
+status = "to research"
+jurisdiction = "Massachusetts"
+application_url = ""
+lookback_years = { residences = "", employment = "", traffic = "" }
+asks_about_sealed_or_expunged = ""
+asks_about_juvenile_matters = ""
+asks_about_dismissed_charges = ""
+asks_about_parking_tickets = ""
+financial_questions = ""
+notes = ""
+reviewed_by = ""
+reviewed_on = ""
+sources = []
